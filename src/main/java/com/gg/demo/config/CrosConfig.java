@@ -5,6 +5,7 @@ import org.springframework.web.servlet.config.annotation.CorsRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 /**
+ * 配置MVC解决跨越问题
  * Creat by GG
  * Date on 2020/9/19  5:06 下午
  */

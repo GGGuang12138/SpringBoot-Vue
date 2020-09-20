@@ -8,6 +8,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
 /**
+ * 实体类 通过注解和数据库表进行绑定。
  * Creat by GG
  * Date on 2020/9/19  5:02 下午
  */

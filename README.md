@@ -5,6 +5,8 @@ SpringBoot+Vue+Element UI，实现简单的前后端分离Demo。包括图书CUR
 - Vue
 - Element UI
 - Spring Data JPA
+- MySQL
+- lombok
 
 ## 数据库
 ```sql
