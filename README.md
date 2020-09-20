@@ -38,7 +38,7 @@ vue add axios//安装ajax
 ```
 
 ## Element
-#### 安装
+#### 一、安装
 ```bash
 npm install --save element-ui
 npm i element-ui -S //两个都可，或vue ui中添加也可
@@ -49,7 +49,7 @@ import 'element-ui/lib/theme-chalk/index.css';
 Vue.use(ElementUI);
 //在main.js中添加
 ```
-#### router动态自动构建左侧菜单
+#### 二、router动态自动构建左侧菜单
 
 1、router/index.js添加全部目标界面的routes
 
@@ -85,3 +85,7 @@ Vue.use(ElementUI);
 ```
 
 4、url改变，router-view区域根据url动态渲染
+
+
+##### 补充：
+- 下载代码后可将demo0文件单独复制到其他位置，再用IDE打开，用```npm run serve ```运行前端项目
